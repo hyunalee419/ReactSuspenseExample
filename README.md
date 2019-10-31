@@ -1,2 +1,0 @@
-# ReactSuspenseExample
-Created with CodeSandbox
